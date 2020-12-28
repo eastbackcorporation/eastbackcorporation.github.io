@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ニュース on 株式会社イーストバック</title>
+    <link>https://www.eastback.co.jp/news/</link>
+    <description>Recent content in ニュース on 株式会社イーストバック</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Wed, 18 Dec 2019 18:01:23 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Customer Cast（カスタマーキャスト）」サービス終了のお知らせ</title>
+      <link>https://www.eastback.co.jp/news/2020-10-01-customer-cast-has-ended/</link>
+      <pubDate>Thu, 01 Oct 2020 16:00:00 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2020-10-01-customer-cast-has-ended/</guid>
+      <description>弊社が提供するカスタマーサポート用コミュニケーションサービス「Customer Cast（カスタマーキャスト）」を、2020年9月30日付けでサービス終了と致しま</description>
+    </item>
+    
+    <item>
+      <title>ドキュメント翻訳管理サービス「LifeLang（ライフラング）」の翻訳エンジンにDeepLを追加</title>
+      <link>https://www.eastback.co.jp/news/2020-06-18-lifelang-deepl/</link>
+      <pubDate>Thu, 18 Jun 2020 09:57:01 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2020-06-18-lifelang-deepl/</guid>
+      <description>ドキュメント翻訳管理サービス「LifeLang（ライフラング）」の翻訳エンジンにDeepLを追加しました。 翻訳エンジンとして使用していた「Google Cloud Tran</description>
+    </item>
+    
+    <item>
+      <title>ドキュメント翻訳管理サービス「LifeLang（ライフラング）」リリース</title>
+      <link>https://www.eastback.co.jp/news/2020-05-12-lifelang-released/</link>
+      <pubDate>Tue, 12 May 2020 14:51:08 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2020-05-12-lifelang-released/</guid>
+      <description>ドキュメント翻訳管理サービス「LifeLang（ライフラング）」をリリースしました。 LifeLangは、文章の作成、編集、保存、履歴表示といった、基本的なドキュ</description>
+    </item>
+    
+    <item>
+      <title>弊社ウェブサイトをリニューアル</title>
+      <link>https://www.eastback.co.jp/news/2020-01-21-website-renewal/</link>
+      <pubDate>Tue, 21 Jan 2020 10:05:43 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2020-01-21-website-renewal/</guid>
+      <description>2020年1月21日(火)より、弊社ウェブサイトをリニューアルし、公開しました。 これまでは、ウェブサイト構築に、Rubyで記述された静的ウェブサイトジェネレータ</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2019 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2019-08-28-rubyworld-conference-2019/</link>
+      <pubDate>Wed, 28 Aug 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2019-08-28-rubyworld-conference-2019/</guid>
+      <description>&lt;div class=&#39;columns&#39;&gt;
+&lt;div class=&#39;column is-8&#39;&gt;
+&lt;p&gt;
+  2019年11月7日(木)、8日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2019」に、シルバースポンサーとして協賛致します。
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://2019.rubyworld-conf.org/ja/sponsors/&#34; target=&#34;_blank&#34;&gt;RubyWorld Conference 2019 ＞ スポンサー&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#39;column&#39;&gt;
+&lt;img src=&#34;https://www.eastback.co.jp/image/rwc/2019.jpg&#34;
+     alt=&#34;RubyWorld Conference 2019バナー&#34;
+     title=&#34;RubyWorld Conference 2019バナー&#34;
+     style=&#39;width: 15rem;&#39; class=&#39;m-0&#39;&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2019夏および2020春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2019-06-01-rubycamp/</link>
+      <pubDate>Sat, 01 Jun 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2019-06-01-rubycamp/</guid>
+      <description>2019年6月1日に島根県より2019夏および2020春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で9年目</description>
+    </item>
+    
+    <item>
+      <title>あなたの名刺をウェブ上で公開するサービス「ever名刺」を公開</title>
+      <link>https://www.eastback.co.jp/news/2019-05-15-release-evermeishi/</link>
+      <pubDate>Wed, 15 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2019-05-15-release-evermeishi/</guid>
+      <description>あなたの名刺をウェブ上で公開するサービス「ever名刺」を公開しました。 「ever名刺」は、名刺をウェブ上に公開することで、名刺を受け取った相手がいつでも最新の</description>
+    </item>
+    
+    <item>
+      <title>オープンソースソフトウェアの無料デモ体験サイト「OSS PLAYGROUND」終了のお知らせ</title>
+      <link>https://www.eastback.co.jp/news/2019-04-17-oss-playground-ended/</link>
+      <pubDate>Wed, 17 Apr 2019 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2019-04-17-oss-playground-ended/</guid>
+      <description>2017年6月13日に公開した、オープンソースソフトウェアの無料デモ体験サイト「OSS PLAYGROUND」の公開を2019年4月17日をもって終了いたしました</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2018 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2018-07-25-rubyworld-conference-2018/</link>
+      <pubDate>Wed, 18 Jul 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2018-07-25-rubyworld-conference-2018/</guid>
+      <description>2018年11月1日(木)、2日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2018」に、シルバースポンサーとして協賛致しま</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2018夏および2019春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2018-05-30-rubycamp/</link>
+      <pubDate>Wed, 30 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2018-05-30-rubycamp/</guid>
+      <description>2018年5月30日に島根県より2018夏および2019春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で8年</description>
+    </item>
+    
+    <item>
+      <title>ドローンのお客様と事業者をつなぐ、見積もり・マッチングサービス「ドローンマッチ」を公開</title>
+      <link>https://www.eastback.co.jp/news/2018-02-08-release-drone-match/</link>
+      <pubDate>Thu, 08 Feb 2018 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2018-02-08-release-drone-match/</guid>
+      <description>ドローンのお客様と事業者をつなぐ、見積もり・マッチングサービス「ドローンマッチ」を公開しました。 「ドローンマッチ」は、お客様が、空撮や測量などのサービ</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2017 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2017-07-17-rubyworld-conference-2017/</link>
+      <pubDate>Mon, 17 Jul 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2017-07-17-rubyworld-conference-2017/</guid>
+      <description>2017年11月1日(水)、2日(木)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2017」に、シルバースポンサーとして協賛致しま</description>
+    </item>
+    
+    <item>
+      <title>オープンソースソフトウェアの無料デモ体験サイト「OSS PLAYGROUND」公開</title>
+      <link>https://www.eastback.co.jp/news/2017-06-13-release-oss-playground/</link>
+      <pubDate>Tue, 13 Jun 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2017-06-13-release-oss-playground/</guid>
+      <description>オープンソースソフトウェアの無料デモ体験サイト「OSS PLAYGROUND」公開しました。 「OSS PLAYGROUND」は、当社が動作確認を行った（主にWebサ</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2017夏および2018春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2017-05-29-rubycamp/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2017-05-29-rubycamp/</guid>
+      <description>2017年5月29日に島根県より2017夏および2018春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で７年</description>
+    </item>
+    
+    <item>
+      <title>カスタマーサポート用コミュニケーションサービス 「Customer Cast」リリース</title>
+      <link>https://www.eastback.co.jp/news/2016-10-11-release-customer-cast/</link>
+      <pubDate>Tue, 11 Oct 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-10-11-release-customer-cast/</guid>
+      <description>カスタマーサポート用コミュニケーションサービス 「Customer Cast」をリリースしました。 「Customer Cast」 はブラウザ上で、ビデオチャットやPC画</description>
+    </item>
+    
+    <item>
+      <title>Webプロジェクションサービス「noctiluca」公開</title>
+      <link>https://www.eastback.co.jp/news/2016-09-16-release-noctiluca/</link>
+      <pubDate>Fri, 16 Sep 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-09-16-release-noctiluca/</guid>
+      <description>Webプロジェクションサービス「noctiluca」を公開しました。 Windows、Mac 上の Google Chrome (最新版) 及び Mozilla FireFox (最新版)の利用を推奨します。 noctilu</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2016 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2016-07-28-rubyworld-conference-2016/</link>
+      <pubDate>Mon, 11 Jul 2016 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-07-28-rubyworld-conference-2016/</guid>
+      <description>2016年11月3日(木・祝)、4日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2016」に、シルバースポンサーとして協賛致</description>
+    </item>
+    
+    <item>
+      <title>ビデオチャットサービス「EB iBoard(β)」公開</title>
+      <link>https://www.eastback.co.jp/news/2016-07-11-release-eb-iboard/</link>
+      <pubDate>Mon, 11 Jul 2016 14:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-07-11-release-eb-iboard/</guid>
+      <description>ブラウザ上で簡単にwebカメラによるビデオチャットやテキストベースのコミニュケーションができるサービス「EB iBoard(β)」ベータ版を公開しました。 EB iBo</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2016夏および2017春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2016-05-23-rubycamp/</link>
+      <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-05-23-rubycamp/</guid>
+      <description>2016年5月23日に島根県より2016夏および2017春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で６年</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンター販売サービス「Make3D」運用開始</title>
+      <link>https://www.eastback.co.jp/news/2016-04-08-make3d-launch/</link>
+      <pubDate>Fri, 08 Apr 2016 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2016-04-08-make3d-launch/</guid>
+      <description>2016年4月8日(金)、3Dプリンター販売サービス「Make3D」の運用を開始しました。当面は3DプリンターDIY（組み立て）キット「Kossel Mini EB」をメ</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2015 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2015-07-28-rubyworld-conference-2015/</link>
+      <pubDate>Tue, 28 Jul 2015 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2015-07-28-rubyworld-conference-2015/</guid>
+      <description>2015年11月12日(木)、13日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2015」に、シルバースポンサーとして協賛致</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2015夏および2016春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2015-05-22-rubycamp/</link>
+      <pubDate>Fri, 22 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2015-05-22-rubycamp/</guid>
+      <description>2015年5月22日に島根県より2015夏および2016春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で５年</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2014 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2014-07-15-rubyworld-conference-2014/</link>
+      <pubDate>Tue, 15 Jul 2014 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2014-07-15-rubyworld-conference-2014/</guid>
+      <description>2014年11月13日(木)、14日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2014」に、シルバースポンサーとして協賛致</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2014夏および2015春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2014-06-02-rubycamp/</link>
+      <pubDate>Mon, 02 Jun 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2014-06-02-rubycamp/</guid>
+      <description>2014年5月29日に島根県より2014夏および2015春の運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で４年</description>
+    </item>
+    
+    <item>
+      <title>本社移転</title>
+      <link>https://www.eastback.co.jp/news/2014-02-01-we-have-moved-2/</link>
+      <pubDate>Sat, 01 Feb 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2014-02-01-we-have-moved-2/</guid>
+      <description>本日2014年2月1日、株式会社イーストバックは下記に移転しました 新事務所は松江駅にほど近く、地域企業の皆様だけではなく県外企業の皆様とのコラボレーションがより</description>
+    </item>
+    
+    <item>
+      <title>中国新聞にClosetサービスについて掲載していただきました。</title>
+      <link>https://www.eastback.co.jp/news/2013-10-17-chugoku-post/</link>
+      <pubDate>Thu, 17 Oct 2013 09:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-10-17-chugoku-post/</guid>
+      <description>10月17日の中国新聞に、弊社サービス「災害対策用バックアップサービスCloset」 の記事を掲載していただきましたのでお知らせいたします。 掲載内容は、中国新聞W</description>
+    </item>
+    
+    <item>
+      <title>山陰経済ウィークリーにClosetサービスについて掲載していただきました。</title>
+      <link>https://www.eastback.co.jp/news/2013-12-17-skweekly-post/</link>
+      <pubDate>Thu, 17 Oct 2013 09:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-12-17-skweekly-post/</guid>
+      <description>山陰経済ウィークリー12月10日号のクラウド特集のなかで、弊社サービス「Closet災害対策用バックアップサービス」を紹介していただきました。 山陰中央新報の記者</description>
+    </item>
+    
+    <item>
+      <title>日本経済新聞にClosetサービスについて掲載していただきました。</title>
+      <link>https://www.eastback.co.jp/news/2013-10-08-nikkei-post/</link>
+      <pubDate>Tue, 08 Oct 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-10-08-nikkei-post/</guid>
+      <description>10月8日の日本経済新聞中国地方版に、弊社サービス「災害対策用バックアップサービスCloset」 の記事を掲載していただきましたのでお知らせいたします。 掲載内容は</description>
+    </item>
+    
+    <item>
+      <title>Rails Girls Matsueにスポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2013-09-02-rails-girls-matsue/</link>
+      <pubDate>Mon, 02 Sep 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-09-02-rails-girls-matsue/</guid>
+      <description>2013年11月22日(金)、23日(土)に松江オープンソースラボ で開催されます「Rails Girls Matsue」に、スポンサーとして協賛致します。 Rails Girls Matsue 申し込みはこ</description>
+    </item>
+    
+    <item>
+      <title>採用情報を追加</title>
+      <link>https://www.eastback.co.jp/news/2013-07-23-ruby-recruit/</link>
+      <pubDate>Tue, 23 Jul 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-07-23-ruby-recruit/</guid>
+      <description>システムエンジニア職の採用を募集開始致しました。詳細は上部ナビゲーションの採用情報 より確認できます。</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2013 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2013-06-27-rubyworld-conference-2013/</link>
+      <pubDate>Wed, 26 Jun 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-06-27-rubyworld-conference-2013/</guid>
+      <description>2013年11月21日(木)、22日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2013」に、シルバースポンサーとして協賛致</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2013夏および2014春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2013-05-17-delegated-rubycamp/</link>
+      <pubDate>Fri, 17 May 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-05-17-delegated-rubycamp/</guid>
+      <description>2013年5月17日に島根県よりRuby合宿 2011夏および2014春の運営業務を受託致しました。</description>
+    </item>
+    
+    <item>
+      <title>iPad版脳機能評価＆トレーニングアプリ「CADi」公開</title>
+      <link>https://www.eastback.co.jp/news/2013-01-10-rollout-cadi-/</link>
+      <pubDate>Thu, 10 Jan 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2013-01-10-rollout-cadi-/</guid>
+      <description>2013年1月10日に島根大学医学部と株式会社テクノプロジェクトが開発したiPad版脳機能評価＆トレーニングアプリ「CADi」 がAppストアに公開されました。 こ</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2012 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2012-07-02-rubyworld-conference-2012/</link>
+      <pubDate>Mon, 02 Jul 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2012-07-02-rubyworld-conference-2012/</guid>
+      <description>2012年11月8日(木)、9日(金)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2012」に、シルバースポンサーとして協賛致しま</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2012夏および2013春の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2012-05-25-delegated-rubycamp/</link>
+      <pubDate>Fri, 25 May 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2012-05-25-delegated-rubycamp/</guid>
+      <description>2012年5月25日に島根県よりRuby合宿 2012夏および2013春の運営業務を受託致しました。</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2011 スポンサーとして協賛</title>
+      <link>https://www.eastback.co.jp/news/2011-06-21-rubyworld-conference-2011/</link>
+      <pubDate>Tue, 21 Jun 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2011-06-21-rubyworld-conference-2011/</guid>
+      <description>2011年9月5日(月)、6日(火)に島根県立産業交流館「くにびきメッセ」で開催されます「RubyWorld Conference 2011」に、シルバースポンサーとして協賛致します</description>
+    </item>
+    
+    <item>
+      <title>島根県からRuby合宿2011夏の運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2011-06-13-delegated-rubycamp/</link>
+      <pubDate>Mon, 13 Jun 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2011-06-13-delegated-rubycamp/</guid>
+      <description>2011年5月13日に島根県よりRuby合宿2011夏の運営業務を受託致しました。 Ruby合宿は2008年より島根県主催で行われており、今年で４年目となります。</description>
+    </item>
+    
+    <item>
+      <title>本社移転</title>
+      <link>https://www.eastback.co.jp/news/2011-04-01-we-have-moved/</link>
+      <pubDate>Fri, 01 Apr 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2011-04-01-we-have-moved/</guid>
+      <description>2011年4月1日をもちまして、下記のとおり本社を移転致しました。 〒690-0816 島根県松江市北陵町１番地 テクノアークしまね３階 TEL/FAX: 0852-28-2520(4</description>
+    </item>
+    
+    <item>
+      <title>株式会社イーストバック　ビジネスプランコンテスト入賞</title>
+      <link>https://www.eastback.co.jp/news/2011-02-02-business-plan/</link>
+      <pubDate>Wed, 02 Feb 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2011-02-02-business-plan/</guid>
+      <description>松江市・しまねオープンソースソフトウェア協議会の主催する、「松江オープンソース活用ビジネスプランコンテスト2011」にて、弊社代表取締役倉橋 徹の応募したエランド</description>
+    </item>
+    
+    <item>
+      <title>情報：11/27(土) OSC 2010 Shimane開催</title>
+      <link>https://www.eastback.co.jp/news/2010-11-11-osc2010-shimane/</link>
+      <pubDate>Thu, 11 Nov 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2010-11-11-osc2010-shimane/</guid>
+      <description>来たる11/27、「オープンソースソフトウェアカンファレンス 2010 島根」が開催されます。弊社は懇親会の運営を担当します。きっと忘れられない懇親会となりますので、奮っ</description>
+    </item>
+    
+    <item>
+      <title>島根大学臨時講師開始</title>
+      <link>https://www.eastback.co.jp/news/2010-10-22-shimane-univ/</link>
+      <pubDate>Fri, 22 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2010-10-22-shimane-univ/</guid>
+      <description>10/22より島根大学にて「Rubyプログラミング」講義の講師を一ヶ月(４回)に渡って行います。</description>
+    </item>
+    
+    <item>
+      <title>株式会社イーストバック設立</title>
+      <link>https://www.eastback.co.jp/news/2010-10-20-founding/</link>
+      <pubDate>Wed, 20 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2010-10-20-founding/</guid>
+      <description>これまでEast BackとしてIT関連の個人事業を行ってまいりましたが、2010年10月20日を持ちまして、株式会社イーストバックを設立致しました。これまでご支</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on East Back Corporation</title>
+    <link>https://www.eastback.co.jp/en/service/</link>
+    <description>Recent content in Services on East Back Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Wed, 18 Dec 2019 10:32:51 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifelang</title>
+      <link>https://www.eastback.co.jp/en/service/lifelang/</link>
+      <pubDate>Tue, 12 May 2020 15:35:52 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/service/lifelang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby Camp</title>
+      <link>https://www.eastback.co.jp/en/service/rubycamp/</link>
+      <pubDate>Thu, 19 Dec 2019 11:50:34 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/service/rubycamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

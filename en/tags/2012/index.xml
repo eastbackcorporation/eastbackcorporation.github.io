@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 on East Back Corporation</title>
+    <link>https://www.eastback.co.jp/en/tags/2012/</link>
+    <description>Recent content in 2012 on East Back Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Mon, 02 Jul 2012 17:57:35 +0000</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/tags/2012/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sponsored as RubyWorld Conference 2012 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2012-07-02-rubyworld-conference-2012/</link>
+      <pubDate>Mon, 02 Jul 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2012-07-02-rubyworld-conference-2012/</guid>
+      <description>As a silver sponsor, we will support &amp;ldquo;RubyWorld Conference 2012&amp;rdquo;, which will be held at Kunibiki Messe, Shimane Industrial Exchange Center on Thursday, November 8 and Friday, November 9, 2012.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned from Ruby Camp 2012 Summer and Spring 2013 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2012-05-25-delegated-rubycamp/</link>
+      <pubDate>Fri, 25 May 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2012-05-25-delegated-rubycamp/</guid>
+      <description>From Shimane Prefecture on May 25, 2012Ruby training camp We have been commissioned to operate the summer 2012 and the spring 2013.</description>
+    </item>
+    
+  </channel>
+</rss>

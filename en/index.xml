@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East Back Corporation</title>
+    <link>https://www.eastback.co.jp/en/</link>
+    <description>Recent content on East Back Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 16:00:00 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifelang</title>
+      <link>https://www.eastback.co.jp/en/service/lifelang/</link>
+      <pubDate>Tue, 12 May 2020 15:35:52 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/service/lifelang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notice of termination of &#34;Customer Cast&#34; service</title>
+      <link>https://www.eastback.co.jp/en/news/2020-10-01-customer-cast-has-ended/</link>
+      <pubDate>Thu, 01 Oct 2020 16:00:00 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-10-01-customer-cast-has-ended/</guid>
+      <description>The customer support communication service &amp;ldquo;Customer Cast&amp;rdquo; provided by our company has been discontinued on September 30, 2020.
+Customer Cast is a service launched in October 2016, and has been used by many people along with its predecessor, the video chat service &amp;ldquo;EB iBoard (β)&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>DeepL is added to the translation engine of the document translation management service &#34;LifeLang&#34;</title>
+      <link>https://www.eastback.co.jp/en/news/2020-06-18-lifelang-deepl/</link>
+      <pubDate>Thu, 18 Jun 2020 09:57:08 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-06-18-lifelang-deepl/</guid>
+      <description>DeepL has been added to the translation engine of the document translation management service &amp;ldquo;LifeLang&amp;rdquo;.
+LifeLang&amp;rsquo;s translation engine has used &amp;ldquo;Google Cloud Translation.</description>
+    </item>
+    
+    <item>
+      <title>Document translation management service &#34;LifeLang&#34; released</title>
+      <link>https://www.eastback.co.jp/en/news/2020-05-12-lifelang-released/</link>
+      <pubDate>Tue, 12 May 2020 15:20:41 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-05-12-lifelang-released/</guid>
+      <description>Document translation management service &amp;ldquo;LifeLang&amp;rdquo; has been released.
+LifeLang is a web service that has specialized functions for multilingual translation in addition to basic document management such as text creation, editing, saving, and history display.</description>
+    </item>
+    
+    <item>
+      <title>Renewed our website</title>
+      <link>https://www.eastback.co.jp/en/news/2020-01-21-website-renewal/</link>
+      <pubDate>Tue, 21 Jan 2020 10:05:49 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-01-21-website-renewal/</guid>
+      <description>Our website was renewed and released on Tuesday, January 21, 2020.
+Until now, we used Jekyll , a static website generator written in Ruby, to build websites, but now we use Hugo , a static website generator written in Go.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Camp</title>
+      <link>https://www.eastback.co.jp/en/service/rubycamp/</link>
+      <pubDate>Thu, 19 Dec 2019 11:50:34 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/service/rubycamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2019 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2019-08-28-rubyworld-conference-2019/</link>
+      <pubDate>Wed, 28 Aug 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2019-08-28-rubyworld-conference-2019/</guid>
+      <description>&lt;div class=&#39;columns&#39;&gt;
+&lt;div class=&#39;column is-8&#39;&gt;
+&lt;p&gt;
+  As a silver sponsor, &#34;RubyWorld Conference 2019&#34; will be held at Kunibiki Messe, Shimane Industrial Exchange Center on November 7 (Thu) and 8 (Fri), 2019.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://2019.rubyworld-conf.org/ja/sponsors/&#34; target=&#34;_blank&#34;&gt;RubyWorld Conference 2019 ＞ sponsor&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#39;column&#39;&gt;
+&lt;img src=&#34;https://www.eastback.co.jp/image/rwc/2019.jpg&#34;
+     alt=&#34;RubyWorld Conference 2019 banner&#34;
+     title=&#34;RubyWorld Conference 2019 banner&#34;
+     style=&#39;width: 15rem;&#39; class=&#39;m-0&#39;&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Commissioned management of Ruby camp summer 2019 and spring 2020 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2019-06-01-rubycamp/</link>
+      <pubDate>Sat, 01 Jun 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2019-06-01-rubycamp/</guid>
+      <description>On June 1, 2019, Shimane Prefecture commissioned the operation for the summer of 2019 and spring of 2020.
+We have been operating Ruby training camps since 2011, and this is our ninth year.</description>
+    </item>
+    
+    <item>
+      <title>Publish ever business card, a service that publishes your business card on the web</title>
+      <link>https://www.eastback.co.jp/en/news/2019-05-15-release-evermeishi/</link>
+      <pubDate>Wed, 15 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2019-05-15-release-evermeishi/</guid>
+      <description>We have released the service &amp;ldquo;ever name card&amp;rdquo; to publish your business card on the web.
+&amp;ldquo;Ever business card&amp;rdquo; is a service that allows the recipient of a business card to see the latest business card at any time by publishing the business card on the web.</description>
+    </item>
+    
+    <item>
+      <title>Open source software free demo experience site &#39;OSS PLAYGROUND&#39; announcement</title>
+      <link>https://www.eastback.co.jp/en/news/2019-04-17-oss-playground-ended/</link>
+      <pubDate>Wed, 17 Apr 2019 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2019-04-17-oss-playground-ended/</guid>
+      <description>OSS PLAYGROUND, a free demo site for open source software released on June 13, 2017, has been released on April 17, 2019.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2018 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2018-07-25-rubyworld-conference-2018/</link>
+      <pubDate>Wed, 18 Jul 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2018-07-25-rubyworld-conference-2018/</guid>
+      <description>As a silver sponsor, we will support &amp;ldquo;RubyWorld Conference 2018&amp;rdquo; which will be held at Kunibiki Messe, Shimane Industrial Exchange Center on Thursday, November 1 and Friday, November 2, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Ruby camp 2018 summer and spring 2019 operation contracted from Shimane</title>
+      <link>https://www.eastback.co.jp/en/news/2018-05-30-rubycamp/</link>
+      <pubDate>Wed, 30 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2018-05-30-rubycamp/</guid>
+      <description>On May 30, 2018, we were commissioned by Shimane Prefecture for summer 2018 and spring 2019 operations.
+We have been commissioned to operate Ruby training camp since 2011, and this is our 8th year.</description>
+    </item>
+    
+    <item>
+      <title>Estimate and match-on service &#39;Drone Match&#39; released by connecting the customer and the business operator of the loan</title>
+      <link>https://www.eastback.co.jp/en/news/2018-02-08-release-drone-match/</link>
+      <pubDate>Thu, 08 Feb 2018 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2018-02-08-release-drone-match/</guid>
+      <description>Estimate and match-on questionnaire &amp;ldquo;Drone Match&amp;rdquo; has been released by connecting the customer and business operator of the loan. &amp;ldquo;Drone</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as a sponsor of RubyWorld Conference 2017</title>
+      <link>https://www.eastback.co.jp/en/news/2017-07-17-rubyworld-conference-2017/</link>
+      <pubDate>Mon, 17 Jul 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2017-07-17-rubyworld-conference-2017/</guid>
+      <description>As a silver sponsor, &amp;ldquo;RubyWorld Conference 2017&amp;rdquo; will be held at Kunibiki Messe, Shimane Industrial Exchange Center on Wednesday, November 1 and Thursday, November 2.</description>
+    </item>
+    
+    <item>
+      <title>Open source software free demo experience site &#39;OSS PLAYGROUND&#39; released</title>
+      <link>https://www.eastback.co.jp/en/news/2017-06-13-release-oss-playground/</link>
+      <pubDate>Tue, 13 Jun 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2017-06-13-release-oss-playground/</guid>
+      <description>Open source software free demo experience site &amp;ldquo;OSS PLAYGROUND&amp;rdquo; has been released. &amp;ldquo;OSS PLAYGROUND&amp;rdquo; provides free information and demo environment</description>
+    </item>
+    
+    <item>
+      <title>Contracted operation of Ruby Camp 2017 Summer and Spring 2018 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2017-05-29-rubycamp/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2017-05-29-rubycamp/</guid>
+      <description>On May 29, 2017, we commissioned Shimane Prefecture for summer 2017 and 2018 spring operation.
+We have been commissioned to operate Ruby training camp since 2011, and this is our seventh year.</description>
+    </item>
+    
+    <item>
+      <title>Communication service for customer support &#39;Customer Cast&#39; released</title>
+      <link>https://www.eastback.co.jp/en/news/2016-10-11-release-customer-cast/</link>
+      <pubDate>Tue, 11 Oct 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-10-11-release-customer-cast/</guid>
+      <description>&amp;ldquo;Customer Cast&amp;rdquo;, a communication service for customer support, has been released.
+&amp;ldquo;Customer Cast&amp;rdquo; is a service that provides customer support by video chat and PC screen sharing on the browser.</description>
+    </item>
+    
+    <item>
+      <title>Web projection service &#39;noctiluca&#39; released</title>
+      <link>https://www.eastback.co.jp/en/news/2016-09-16-release-noctiluca/</link>
+      <pubDate>Fri, 16 Sep 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-09-16-release-noctiluca/</guid>
+      <description>Web projection service &amp;ldquo;noctiluca&amp;rdquo; has been released.
+ We recommend using Google Chrome (latest version) and Mozilla FireFox (latest version) on Windows and Mac.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2016 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2016-07-28-rubyworld-conference-2016/</link>
+      <pubDate>Mon, 11 Jul 2016 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-07-28-rubyworld-conference-2016/</guid>
+      <description>As a silver sponsor, &amp;ldquo;RubyWorld Conference 2016&amp;rdquo; will be held at Shimane Prefectural Industrial Exchange Center &amp;ldquo;Kunibiki Messe&amp;rdquo; on November 3 (Thursday, National Holiday) and 4 (Friday).</description>
+    </item>
+    
+    <item>
+      <title>Video chat service &#39;EB iBoard (β)&#39; released</title>
+      <link>https://www.eastback.co.jp/en/news/2016-07-11-release-eb-iboard/</link>
+      <pubDate>Mon, 11 Jul 2016 14:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-07-11-release-eb-iboard/</guid>
+      <description>EB iBoard (β), a service that enables video chat and text-based communication using a web camera on a browser, has been released.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned to operate Ruby Camp 2016 Summer and 2017 Spring from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2016-05-23-rubycamp/</link>
+      <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-05-23-rubycamp/</guid>
+      <description>On May 23, 2016, we commissioned Shimane Prefecture to operate 2016 summer and 2017 spring.
+We have been commissioned to operate Ruby training camp since 2011, and this is our sixth year.</description>
+    </item>
+    
+    <item>
+      <title>3D printer sales service &#39;Make3D&#39; started operation</title>
+      <link>https://www.eastback.co.jp/en/news/2016-04-08-make3d-launch/</link>
+      <pubDate>Fri, 08 Apr 2016 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2016-04-08-make3d-launch/</guid>
+      <description>On Friday, April 8, 2016, the 3D printer sales service &amp;ldquo;Make3D&amp;rdquo; started operation. For the time being, the 3D printer DIY (assembly) kit &amp;ldquo;Kossel Mini EB&amp;rdquo; will be sold as the main product.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2015 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2015-07-28-rubyworld-conference-2015/</link>
+      <pubDate>Tue, 28 Jul 2015 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2015-07-28-rubyworld-conference-2015/</guid>
+      <description>As a silver sponsor, &amp;ldquo;RubyWorld Conference 2015&amp;rdquo; will be held at Shimane Prefectural Industrial Exchange Center &amp;ldquo;Kunibiki Messe&amp;rdquo; on November 12 (Thu) and 13 (Fri), 2015.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned operation of Ruby Camp 2015 Summer and 2016 Spring from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2015-05-22-rubycamp/</link>
+      <pubDate>Fri, 22 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2015-05-22-rubycamp/</guid>
+      <description>On May 22, 2015, we were commissioned by Shimane Prefecture to operate 2015 summer and 2016 spring.
+We have been commissioned to operate Ruby training camp since 2011, and this is our fifth year.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2014 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2014-07-15-rubyworld-conference-2014/</link>
+      <pubDate>Tue, 15 Jul 2014 18:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2014-07-15-rubyworld-conference-2014/</guid>
+      <description>As a silver sponsor, we will co-sponsor &amp;ldquo;RubyWorld Conference 2014&amp;rdquo; to be held on November 13 (Thu) and 14 (Fri), 2014 at Shimane Prefectural Industrial Exchange Center &amp;ldquo;Kunibiki Messe&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned to operate Ruby Camp 2014 Summer and Spring 2015 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2014-06-02-rubycamp/</link>
+      <pubDate>Mon, 02 Jun 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2014-06-02-rubycamp/</guid>
+      <description>On May 29, 2014, we were commissioned by Shimane Prefecture to operate 2014 summer and 2015 spring.
+We have been operating Ruby training camps since 2011, and this is our fourth year.</description>
+    </item>
+    
+    <item>
+      <title>Head office relocation</title>
+      <link>https://www.eastback.co.jp/en/news/2014-02-01-we-have-moved-2/</link>
+      <pubDate>Sat, 01 Feb 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2014-02-01-we-have-moved-2/</guid>
+      <description>Today, February 1, 2014, Eastbuck Co., Ltd. has moved to
+The new office is close to Matsue Station, and we believe that collaboration with not only local companies but also non-prefectural companies will be more active.</description>
+    </item>
+    
+    <item>
+      <title>Sanin Economic Weekly posted about Closet service.</title>
+      <link>https://www.eastback.co.jp/en/news/2013-12-17-skweekly-post/</link>
+      <pubDate>Thu, 17 Oct 2013 09:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-12-17-skweekly-post/</guid>
+      <description>In a special feature on the cloud on the December 10 issue of San&amp;rsquo;in Economic Weekly, we introduced our service</description>
+    </item>
+    
+    <item>
+      <title>The Closet service was published in the Chugoku Shimbun.</title>
+      <link>https://www.eastback.co.jp/en/news/2013-10-17-chugoku-post/</link>
+      <pubDate>Thu, 17 Oct 2013 09:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-10-17-chugoku-post/</guid>
+      <description>Our service &amp;ldquo;Disaster Countermeasure Backup Service Closet&amp;rdquo; appeared on the Chugoku Shimbun on October 17 Thank you for posting this article.</description>
+    </item>
+    
+    <item>
+      <title>Nikkei published the Closet service.</title>
+      <link>https://www.eastback.co.jp/en/news/2013-10-08-nikkei-post/</link>
+      <pubDate>Tue, 08 Oct 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-10-08-nikkei-post/</guid>
+      <description>Our service &amp;ldquo;Disaster Countermeasure Backup Service Closet&amp;rdquo; was added to the Nihon Keizai Shimbun Chugoku regional version on October 8 Thank you for posting this article.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored Rails Girls Matsue as a sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2013-09-02-rails-girls-matsue/</link>
+      <pubDate>Mon, 02 Sep 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-09-02-rails-girls-matsue/</guid>
+      <description>November 22 (Fri) and 23 (Sat), 2013Matsue Open Source Lab As a sponsor for &amp;ldquo;Rails Girls Matsue&amp;rdquo; held in Tokyo.</description>
+    </item>
+    
+    <item>
+      <title>Add employment information</title>
+      <link>https://www.eastback.co.jp/en/news/2013-07-23-ruby-recruit/</link>
+      <pubDate>Tue, 23 Jul 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-07-23-ruby-recruit/</guid>
+      <description>Recruitment of system engineer jobs has started. See the top navigation for detailsRecruitment information You can see more.</description>
+    </item>
+    
+    <item>
+      <title>RubyWorld Conference 2013 Sponsored as a sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2013-06-27-rubyworld-conference-2013/</link>
+      <pubDate>Wed, 26 Jun 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-06-27-rubyworld-conference-2013/</guid>
+      <description>As a silver sponsor, we will co-sponsor &amp;ldquo;RubyWorld Conference 2013&amp;rdquo; held at Shimane Prefectural Industrial Exchange Center &amp;ldquo;Kunibiki Messe&amp;rdquo; on November 21 (Thu) and 22 (Fri), 2013.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned the operation of Ruby Camp 2013 Summer and Spring 2014 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2013-05-17-delegated-rubycamp/</link>
+      <pubDate>Fri, 17 May 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-05-17-delegated-rubycamp/</guid>
+      <description>From Shimane Prefecture on May 17, 2013Ruby training camp We commissioned summer 2011 and spring 2014 operation.</description>
+    </item>
+    
+    <item>
+      <title>Release of iPad version of brain function evaluation &amp; training application &#39;CADi&#39;</title>
+      <link>https://www.eastback.co.jp/en/news/2013-01-10-rollout-cadi-/</link>
+      <pubDate>Thu, 10 Jan 2013 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2013-01-10-rollout-cadi-/</guid>
+      <description>Developed by Shimane University School of Medicine and Techno Project Co., Ltd. on January 10, 2013 iPad version of brain function evaluation &amp;amp; training app &amp;ldquo;CADi&amp;rdquo; Has been published to the App Store.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2012 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2012-07-02-rubyworld-conference-2012/</link>
+      <pubDate>Mon, 02 Jul 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2012-07-02-rubyworld-conference-2012/</guid>
+      <description>As a silver sponsor, we will support &amp;ldquo;RubyWorld Conference 2012&amp;rdquo;, which will be held at Kunibiki Messe, Shimane Industrial Exchange Center on Thursday, November 8 and Friday, November 9, 2012.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned from Ruby Camp 2012 Summer and Spring 2013 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2012-05-25-delegated-rubycamp/</link>
+      <pubDate>Fri, 25 May 2012 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2012-05-25-delegated-rubycamp/</guid>
+      <description>From Shimane Prefecture on May 25, 2012Ruby training camp We have been commissioned to operate the summer 2012 and the spring 2013.</description>
+    </item>
+    
+    <item>
+      <title>Sponsored as RubyWorld Conference 2011 sponsor</title>
+      <link>https://www.eastback.co.jp/en/news/2011-06-21-rubyworld-conference-2011/</link>
+      <pubDate>Tue, 21 Jun 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2011-06-21-rubyworld-conference-2011/</guid>
+      <description>As a silver sponsor, &amp;ldquo;RubyWorld Conference 2011&amp;rdquo; will be held on September 5 (Mon.) and 6 (Tue.), 2011 at Shimane Prefectural Industrial Exchange Center &amp;ldquo;Kunibiki Messe&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Commissioned the operation of Ruby Camp 2011 summer from Shimane</title>
+      <link>https://www.eastback.co.jp/en/news/2011-06-13-delegated-rubycamp/</link>
+      <pubDate>Mon, 13 Jun 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2011-06-13-delegated-rubycamp/</guid>
+      <description>On May 13, 2011, we commissioned the operation of Ruby Camp 2011 summer from Shimane Prefecture. The Ruby camp has been hosted by Shimane Prefecture since 2008, and this is the fourth year this year.</description>
+    </item>
+    
+    <item>
+      <title>Head office relocation</title>
+      <link>https://www.eastback.co.jp/en/news/2011-04-01-we-have-moved/</link>
+      <pubDate>Fri, 01 Apr 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2011-04-01-we-have-moved/</guid>
+      <description>On April 1, 2011, the head office was relocated as follows.
+〒690-0816
+1st Kitahyocho, Matsue City, Shimane Prefecture Techno Arc Shimane 3F</description>
+    </item>
+    
+    <item>
+      <title>East Buck Co., Ltd. Business Plan Contest Winner</title>
+      <link>https://www.eastback.co.jp/en/news/2011-02-02-business-plan/</link>
+      <pubDate>Wed, 02 Feb 2011 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2011-02-02-business-plan/</guid>
+      <description>Eland auction &amp;ldquo;Do-me-a-favor&amp;rdquo; that Toru Kurahashi applied for at the &amp;ldquo;Matsue Open Source Utilization Business Plan Contest 2011&amp;rdquo; sponsored by the Matsue City Shimane Open Source Software Association.</description>
+    </item>
+    
+    <item>
+      <title>Information: OSC 2010 Shimane on 11/27 (Sat.)</title>
+      <link>https://www.eastback.co.jp/en/news/2010-11-11-osc2010-shimane/</link>
+      <pubDate>Thu, 11 Nov 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-11-11-osc2010-shimane/</guid>
+      <description>The upcoming 11/27 &amp;ldquo;Open Source Software Conference 2010 Shimane&amp;rdquo; will be held. We are in charge of running the reception. It will be an unforgettable social gathering, so please join us.</description>
+    </item>
+    
+    <item>
+      <title>Started temporary lecturer at Shimane University</title>
+      <link>https://www.eastback.co.jp/en/news/2010-10-22-shimane-univ/</link>
+      <pubDate>Fri, 22 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-10-22-shimane-univ/</guid>
+      <description>Instructor of &amp;ldquo;Ruby Programming&amp;rdquo; lecture will be held at Shimane University from October 22 for one month (4 times).</description>
+    </item>
+    
+    <item>
+      <title>Eastback Co., Ltd. established</title>
+      <link>https://www.eastback.co.jp/en/news/2010-10-20-founding/</link>
+      <pubDate>Wed, 20 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-10-20-founding/</guid>
+      <description>Until now, East Back has been engaged in IT related personal business, but we established East Back Co., Ltd. on October 20, 2010.</description>
+    </item>
+    
+  </channel>
+</rss>

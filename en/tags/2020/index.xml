@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on East Back Corporation</title>
+    <link>https://www.eastback.co.jp/en/tags/2020/</link>
+    <description>Recent content in 2020 on East Back Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Tue, 12 May 2020 15:20:41 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document translation management service &#34;LifeLang&#34; released</title>
+      <link>https://www.eastback.co.jp/en/news/2020-05-12-lifelang-released/</link>
+      <pubDate>Tue, 12 May 2020 15:20:41 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-05-12-lifelang-released/</guid>
+      <description>Document translation management service &amp;ldquo;LifeLang&amp;rdquo; has been released.
+LifeLang is a web service that has specialized functions for multilingual translation in addition to basic document management such as text creation, editing, saving, and history display.</description>
+    </item>
+    
+    <item>
+      <title>Renewed our website</title>
+      <link>https://www.eastback.co.jp/en/news/2020-01-21-website-renewal/</link>
+      <pubDate>Tue, 21 Jan 2020 10:05:49 +0900</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2020-01-21-website-renewal/</guid>
+      <description>Our website was renewed and released on Tuesday, January 21, 2020.
+Until now, we used Jekyll , a static website generator written in Ruby, to build websites, but now we use Hugo , a static website generator written in Go.</description>
+    </item>
+    
+  </channel>
+</rss>

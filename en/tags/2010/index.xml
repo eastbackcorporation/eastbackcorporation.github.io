@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on East Back Corporation</title>
+    <link>https://www.eastback.co.jp/en/tags/2010/</link>
+    <description>Recent content in 2010 on East Back Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>East Back Corporation</copyright>
+    <lastBuildDate>Thu, 11 Nov 2010 17:57:35 +0000</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information: OSC 2010 Shimane on 11/27 (Sat.)</title>
+      <link>https://www.eastback.co.jp/en/news/2010-11-11-osc2010-shimane/</link>
+      <pubDate>Thu, 11 Nov 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-11-11-osc2010-shimane/</guid>
+      <description>The upcoming 11/27 &amp;ldquo;Open Source Software Conference 2010 Shimane&amp;rdquo; will be held. We are in charge of running the reception. It will be an unforgettable social gathering, so please join us.</description>
+    </item>
+    
+    <item>
+      <title>Started temporary lecturer at Shimane University</title>
+      <link>https://www.eastback.co.jp/en/news/2010-10-22-shimane-univ/</link>
+      <pubDate>Fri, 22 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-10-22-shimane-univ/</guid>
+      <description>Instructor of &amp;ldquo;Ruby Programming&amp;rdquo; lecture will be held at Shimane University from October 22 for one month (4 times).</description>
+    </item>
+    
+    <item>
+      <title>Eastback Co., Ltd. established</title>
+      <link>https://www.eastback.co.jp/en/news/2010-10-20-founding/</link>
+      <pubDate>Wed, 20 Oct 2010 17:57:35 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2010-10-20-founding/</guid>
+      <description>Until now, East Back has been engaged in IT related personal business, but we established East Back Co., Ltd. on October 20, 2010.</description>
+    </item>
+    
+  </channel>
+</rss>
