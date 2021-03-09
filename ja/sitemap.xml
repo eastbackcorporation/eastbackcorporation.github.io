@@ -108,6 +108,66 @@
   </url>
   
   <url>
+    <loc>https://www.eastback.co.jp/tags/2020/</loc>
+    <lastmod>2020-10-16T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastback.co.jp/en/tags/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.eastback.co.jp/tags/2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eastback.co.jp/tags/</loc>
+    <lastmod>2020-10-16T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastback.co.jp/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.eastback.co.jp/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eastback.co.jp/news/2020-10-16-rubycamp/</loc>
+    <lastmod>2020-10-16T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastback.co.jp/en/news/2020-10-16-rubycamp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.eastback.co.jp/news/2020-10-16-rubycamp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.eastback.co.jp/</loc>
+    <lastmod>2020-10-16T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastback.co.jp/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.eastback.co.jp/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.eastback.co.jp/news/2020-10-01-customer-cast-has-ended/</loc>
     <lastmod>2020-10-01T16:00:00+09:00</lastmod>
     <xhtml:link
@@ -123,21 +183,6 @@
   </url>
   
   <url>
-    <loc>https://www.eastback.co.jp/</loc>
-    <lastmod>2020-10-01T16:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.eastback.co.jp/news/2020-06-18-lifelang-deepl/</loc>
     <lastmod>2020-06-18T09:57:01+09:00</lastmod>
     <xhtml:link
@@ -149,36 +194,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.eastback.co.jp/news/2020-06-18-lifelang-deepl/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.eastback.co.jp/tags/2020/</loc>
-    <lastmod>2020-05-12T14:51:08+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/tags/2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/tags/2020/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.eastback.co.jp/tags/</loc>
-    <lastmod>2020-05-12T14:51:08+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/tags/"
                 />
   </url>
   
