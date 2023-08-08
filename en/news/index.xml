@@ -9,6 +9,16 @@
     <copyright>East Back Corporation</copyright>
     <lastBuildDate>Wed, 18 Dec 2019 18:01:23 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/en/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Commissioned management of Rubycamp 2023 from Shimane Prefecture</title>
+      <link>https://www.eastback.co.jp/en/news/2023-05-15-rubycamp/</link>
+      <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/en/news/2023-05-15-rubycamp/</guid>
+      <description>On Mar 15, 2023 Shimane Prefecture commissioned the operation for the Rubycamp 2023.
+We have been operating Ruby training camps since 2011, and this is our 13th year.</description>
+    </item>
+    
+    <item>
       <title>Head office relocation</title>
       <link>https://www.eastback.co.jp/en/news/2022-10-20-office-have-been-moved/</link>
       <pubDate>Thu, 20 Oct 2022 09:00:00 +0900</pubDate>
@@ -215,7 +225,7 @@ We have been commissioned to operate Ruby training camp since 2011, and this is 
       
       <guid>https://www.eastback.co.jp/en/news/2016-09-16-release-noctiluca/</guid>
       <description>Web projection service &amp;ldquo;noctiluca&amp;rdquo; has been released.
- We recommend using Google Chrome (latest version) and Mozilla FireFox (latest version) on Windows and Mac.</description>
+We recommend using Google Chrome (latest version) and Mozilla FireFox (latest version) on Windows and Mac.</description>
     </item>
     
     <item>

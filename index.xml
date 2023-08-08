@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>East Back Corporation</copyright>
-    <lastBuildDate>Thu, 20 Oct 2022 09:00:00 +0900</lastBuildDate><atom:link href="https://www.eastback.co.jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://www.eastback.co.jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lifelang</title>
       <link>https://www.eastback.co.jp/service/lifelang/</link>
@@ -15,6 +15,15 @@
       
       <guid>https://www.eastback.co.jp/service/lifelang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>島根県から令和5年度Ruby合宿運営業務を受託</title>
+      <link>https://www.eastback.co.jp/news/2023-05-15-rubycamp/</link>
+      <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.eastback.co.jp/news/2023-05-15-rubycamp/</guid>
+      <description>2023年5月15日に島根県よりRuby合宿運営業務を受託致しました。 弊社では2011年よりRuby合宿の運営を継続して受託しており、今回で13年目となります。</description>
     </item>
     
     <item>
