@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.eastback.co.jp/service/lifelang/</loc>
-    <lastmod>2020-05-12T15:34:47+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/service/lifelang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/service/lifelang/"
-                />
-  </url><url>
     <loc>https://www.eastback.co.jp/service/shuzou/</loc>
     <lastmod>2019-12-19T11:50:34+09:00</lastmod>
     <xhtml:link
@@ -41,19 +28,6 @@
                 href="https://www.eastback.co.jp/service/evermeishi/"
                 />
   </url><url>
-    <loc>https://www.eastback.co.jp/service/drone_match/</loc>
-    <lastmod>2019-12-19T11:50:34+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/service/drone_match/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/service/drone_match/"
-                />
-  </url><url>
     <loc>https://www.eastback.co.jp/service/make3d/</loc>
     <lastmod>2019-12-19T11:50:34+09:00</lastmod>
     <xhtml:link
@@ -65,19 +39,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.eastback.co.jp/service/make3d/"
-                />
-  </url><url>
-    <loc>https://www.eastback.co.jp/service/noctiluca/</loc>
-    <lastmod>2019-12-19T11:50:34+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.eastback.co.jp/en/service/noctiluca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.eastback.co.jp/service/noctiluca/"
                 />
   </url><url>
     <loc>https://www.eastback.co.jp/service/closet/</loc>
@@ -94,7 +55,7 @@
                 />
   </url><url>
     <loc>https://www.eastback.co.jp/tags/2023/</loc>
-    <lastmod>2023-05-15T12:00:00+00:00</lastmod>
+    <lastmod>2023-09-01T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -106,8 +67,21 @@
                 href="https://www.eastback.co.jp/tags/2023/"
                 />
   </url><url>
+    <loc>https://www.eastback.co.jp/news/2023-09-01-3services-ended/</loc>
+    <lastmod>2023-09-01T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastback.co.jp/en/news/2023-09-01-3services-ended/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.eastback.co.jp/news/2023-09-01-3services-ended/"
+                />
+  </url><url>
     <loc>https://www.eastback.co.jp/tags/</loc>
-    <lastmod>2023-05-15T12:00:00+00:00</lastmod>
+    <lastmod>2023-09-01T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +94,7 @@
                 />
   </url><url>
     <loc>https://www.eastback.co.jp/</loc>
-    <lastmod>2023-05-15T12:00:00+00:00</lastmod>
+    <lastmod>2023-09-01T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
